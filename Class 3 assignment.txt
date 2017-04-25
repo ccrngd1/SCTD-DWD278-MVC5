@@ -1,0 +1,28 @@
+https://www.sololearn.com/Play/CSharp#
+
+For next week, please complete the first 2 modules:
+'Basic Concepts'
+'Conditionals and Loops'
+
+
+
+
+The code prompt for the week was:
+	Write code to convert a given number into words. For example, if “34” is given as input, output should be “thirty four”.  Only code for numbers from -999 to 999.
+
+	Examples:
+	input: 34  -> output: "thirty four"
+	input: -90 -> output: "negative ninety"
+	input: 001 -> output: "one"
+	input: 10  -> output: "ten"
+	input: 999 -> output: "nine hundred ninety nine"
+	
+	
+	
+	
+In chapter 3 they provide you with 3 nuget packages.  Create the following three mvc projects and install the listed nuget package.
+hw3.AlbumList      - install Wrox.ProMVC5.Views.AlbumList
+hw3.ViewModel      - install Wrox.ProMVC5.Views.ViewModel
+hw3.SpecifyingView - install Wrox.ProMVC5.Views.SpecifyingViews
+
+In the hw3.ViewModel project, create 2 additional Controllers/Views where 1 view utilizes a partial view.

@@ -1,0 +1,26 @@
+c# fundamentals to cover
+base types (int, string, etc)
+flow control statements (if/else, for, foreach, while, switch, try/catch)
+classes (fields/properties, methods, static vs instances)
+inerhitance (polymorphism, interfaces, abstract/virtual)
+enums
+generics
+nullable types
+extension methods
+enumeration/iterators
+Collections (specifically List)
+
+Code Kata - Deck of Cards:
+Design the data strcutures for a generic deck of cards. 
+
+Card class with a suit, a face value
+Deck class of class T where T is a card with a collection of cards
+Hand class of class T where T is a card with a collection of cards
+	
+
+Homework from the book:
+Create a new MVC website as detailed in CH 1.  Do not set up your project to be hosted in Azure, it will just run locally.
+
+Create a new controller as detailed in CH 2 (starting on pg 42)
+
+Extend this new controller to accept parameters as detailed in CH 2 (starting on pg 45)

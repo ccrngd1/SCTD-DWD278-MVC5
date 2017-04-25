@@ -1,0 +1,56 @@
+All,
+
+Continue with the next module on SoloLearn, and please upload a screenshot of its completion.
+
+For chapter 4, you will follow the instructions in the book to create the MusicStore web site.
+You may need install SqlExpress to get EF to work, since it is reliant on a local db to run.
+https://www.microsoft.com/en-us/sql-server/sql-server-editions-express
+
+
+The steps to follow to create your site are below:
+p76 - Create new MVC templated site
+p78 - Create new Album model
+p79 - Create new Artist model
+   Create new Genre model
+p85 - scaffold StoreManagerController and MusicStoreDB dbContext
+p94 - set your database initializer
+p95 - add initializer
+p96 - comment out code from p94, register your new initializer
+p105-107 - replace POST Edit() logic with one of the binding examples in these pages
+
+please submit your entire project folder and a screen shot of the site running on your machine, and you have navigated to the SotreManager page.
+
+The code prompt for the week was:
+
+
+A circular buffer, circular queue, cyclic buffer or ring buffer is a data structure that uses a single, fixed-size buffer as if it were connected end-to-end. This structure lends itself easily to buffering .
+https://en.wikipedia.org/wiki/Circular_buffer
+
+
+You are to write a CircularBuffer class that will create a generic array of items and allow users to read and write data from it.  You will need to keep track of your read and write pointers (head and tail pointers), so that data is not over written.
+
+The general layout of your class should be similar to 
+
+public class CircularBuffer<T>
+{
+ public int Length;
+ private int readPosition;
+ private int writePosition;
+ 
+ private T[] backingArray;
+ 
+ public CircularBuffer(int length)
+ {
+  Length=length;
+  backingArray = new T[length];
+ }
+ 
+ public T Read(){
+ 
+ }
+ 
+ public bool Write(T inputT){
+ 
+ }
+}
+

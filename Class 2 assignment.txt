@@ -1,0 +1,11 @@
+Code Prompt
+
+Create classes to hold the data necessary to play a game of minesweeper.  You should have, at a minimum, a class for each individual cell, a class for the game board, and a class for the game itself to call and set up the board.
+
+Do not worry about implementing a player or the game logic to actually play, just focus on the data structures.
+
+Remember, each cell is either a bomb or it isn't.  A player can expose a cell (see whether it is a bomb or not, if it is a bomb the game ends.  If not, it shows a blank or the number of nearby bombs.), or guess a cell (an indicator is shown on the screen to let the user flag cells they suspect of being bombs so they don't have to remember them all).  
+
+
+Additional homework:
+Read chapter 3 - be ready to work through code in the book during class for both Views and Controllers.
