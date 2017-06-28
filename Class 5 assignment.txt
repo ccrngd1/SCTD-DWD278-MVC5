@@ -1,0 +1,37 @@
+All,
+
+Continue with the next module on SoloLearn, and please upload a screenshot of its completion.
+
+For chapter 5, you will follow the instructions in the book to modify the MusicStore web site you have created up to this point.
+
+You may need install SqlExpress to get EF to work, since it is reliant on a local db to run.
+https://www.microsoft.com/en-us/sql-server/sql-server-editions-express
+
+The steps to follow to modify the site this week are below:
+p111     - implement search form
+p117     - set up Album edit form
+p118-119 - ensure page matches code from book
+p122     - ensure page matches code from book
+p123     - add some model validation to album edit page
+p126     - create an additional album edit page with that code
+
+Sumbit your entire project in a new folder.
+
+Also, create a wireframe/mockup for your main landing page of your website.  You can use visio, balsamiq (installed on the machines on campus), https://wireframe.cc/, or any other resource you prefer.  Include only a screen shot of you mockup and a list of content that you already have to include on your site. (I am going to get some feedback on the overall project scope from Haleh and finalize the requirements before I send that out.)
+
+Code prompt: 
+A circular buffer, circular queue, cyclic buffer or ring buffer is a data structure that uses a single, fixed-size buffer as if it were connected end-to-end. This structure lends itself easily to buffering .
+
+https://en.wikipedia.org/wiki/Circular_buffer
+
+You are to write a CircularBuffer class that will create a generic array of items and allow users to read and write data from it.  You will need to keep track of your read and write pointers (head and tail pointers), so that data is not over written.
+
+
+Add unit tests to your code.  There should be 10 unit tests total, 6 of which should accomplish the following goals:
+
+UnitTest - Has to have way to add objects to the collection
+UnitTest – Add function has to know when to stop allowing additions to collection
+UnitTest – Has to have a way to remove objects from the colletion
+UnitTest – Has to know when to stop removing when collection is empty
+UnitTest – Should allow adding a new item after removing an old one
+UnitTest – Should allow for adding a new item, after collection hits its limit, and an item is removed

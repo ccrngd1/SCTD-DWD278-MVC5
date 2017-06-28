@@ -1,0 +1,13 @@
+Work through second module and include a screenshot of your completion
+http://try.jquery.com
+
+Create a new project for chapter 11, follow steps on pg 334-335
+Configure your WebApiConfig file for using the api
+Create the 3 files on page 352-355
+
+Work on  your personal project site.
+Make sure you have a wireframe of what your landing page should look like for you personal site
+Make sure the solution for your personal site has a _testBootstrap page that contains your template you've chosen to start with
+Please take a screen shot of your landing page and include it with the zip file that contains your project.  Also, be ready to briefly describe what you made and what you included on your site.
+
+Study for the final.

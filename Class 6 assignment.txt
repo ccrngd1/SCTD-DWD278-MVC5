@@ -1,0 +1,39 @@
+All,
+
+Continue with the next module on SoloLearn, and please upload a screenshot of its completion.
+
+For chapter 5, you will follow the instructions in the book to modify the MusicStore web site you ahve created up to this point.
+
+The steps to follow to modify the site this week are below:
+p138 - Add Order.cs
+p139 - Scaffold Order
+Take a screen shot of Order/Create running in your browser
+p141 - Add required Attribute
+p142 - Add string length validation
+p144 - Add Email validation
+p145 - Add Compare and remote
+p146 - Add 1 custom error message
+p148 - Add AddressAndPayment method
+	(in addition create ShoppingCart class with a public method of GetCart or your code won't work)
+
+
+Create a new MVC site for working on your class project.  Include the bootstrap index page that contains the template you want to begin working from (you will need to rename it to _bootstrapTest).
+
+The finalized project requirements are on OneDrive, and I have attached them to this email.
+
+
+In class work (to be completed as homework if needed)
+
+Finish your page layout wire frame, make sure there is a screenshot of it in you folder for this week.
+
+Pick a starting bootstrap layout from the StartBootstrap (or other) site. Copy down the project to you OneDrive and open the Index page to make sure the layout still renders correctly.  Include this in your folder for this week also.
+
+Finish your CircularBuffer code and UnitTests.
+
+
+
+List of bootstrap components
+http://getbootstrap.com/components/
+
+Starting bootstrap layouts
+https://startbootstrap.com/template-categories/all/

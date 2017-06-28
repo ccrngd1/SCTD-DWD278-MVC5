@@ -1,0 +1,8 @@
+Since I could not get the information around adding OAuth2, the only homework for this week is as follows:
+
+Make sure hw6 is finished and turned in
+Make sure you have a wireframe of what your landing page should look like for you personal site
+Make sure the solution for your personal site has a _testBootstrap page that contains your template you've chosen to start with
+Continue working on completing your personal site, you should be able to do everything on it except the web API end point
+
+If you have any SoloLearn modules left, please make sure you complete a module and take a screenshot for your homework folder.

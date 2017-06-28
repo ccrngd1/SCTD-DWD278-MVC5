@@ -1,0 +1,16 @@
+Following this tutorial, enabled OAuth2 on your personal project.
+
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/create-an-aspnet-mvc-5-app-with-facebook-and-google-oauth2-and-openid-sign-on
+
+Work through the first module (1. Introduction to jquery)
+http://try.jquery.com
+
+Convert your Home and Album controllers to use attribute base routing.  You will also have to alter you route configuration to get this working.
+
+Finish any SoloLearn modules that remain.
+
+Work on  your personal project site.
+Make sure you have a wireframe of what your landing page should look like for you personal site
+Make sure the solution for your personal site has a _testBootstrap page that contains your template you've chosen to start with
+Continue working on completing your personal site, you should be able to do everything on it except the web API end point
+
